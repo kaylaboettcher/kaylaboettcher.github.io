@@ -1,0 +1,9 @@
+# Site settings
+title: Kayla Boettcher
+email: hi@kaylaboettcher.com
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://kaylaboettcher.com" # the base hostname & protocol for your site
+github_username:  kaylaboettcher
+
+# Build settings
+markdown: kramdown
